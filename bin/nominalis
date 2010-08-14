@@ -1,0 +1,2 @@
+#!/usr/bin/env ruby
+puts 'print_r(array(1));'
